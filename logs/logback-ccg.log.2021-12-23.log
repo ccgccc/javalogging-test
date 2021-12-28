@@ -1,0 +1,12 @@
+2021-12-23 23:42:47.291 [main] INFO  com.ccg.logback.LogbackDemo - ======info
+2021-12-23 23:42:47.291 [main] WARN  com.ccg.logback.LogbackDemo - ======warn
+2021-12-23 23:42:47.291 [main] ERROR com.ccg.logback.LogbackDemo - ======error
+2021-12-23 23:42:47.291 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!
+2021-12-23 23:42:47.293 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!   3Q!
+2021-12-23 23:42:47.294 [main] INFO  com.ccg.logback.LogbackDemo - Fruit:  apple,banana
+2021-12-23 23:43:00.035 [main] INFO  com.ccg.logback.LogbackDemo - ======info
+2021-12-23 23:43:00.036 [main] WARN  com.ccg.logback.LogbackDemo - ======warn
+2021-12-23 23:43:00.036 [main] ERROR com.ccg.logback.LogbackDemo - ======error
+2021-12-23 23:43:00.036 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!
+2021-12-23 23:43:00.044 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!   3Q!
+2021-12-23 23:43:00.044 [main] INFO  com.ccg.logback.LogbackDemo - Fruit:  apple,banana

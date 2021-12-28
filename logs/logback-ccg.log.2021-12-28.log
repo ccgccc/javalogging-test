@@ -1,0 +1,132 @@
+2021-12-28 00:44:12.603 [main] INFO  com.ccg.slf4j.Slf4jJdk - Info Level
+2021-12-28 00:44:12.604 [main] WARN  com.ccg.slf4j.Slf4jJdk - Warn Level
+2021-12-28 00:44:12.604 [main] ERROR com.ccg.slf4j.Slf4jJdk - Error Level
+2021-12-28 00:44:26.016 [main] INFO  com.ccg.slf4j.Slf4jJdk - Info Level
+2021-12-28 00:44:26.017 [main] WARN  com.ccg.slf4j.Slf4jJdk - Warn Level
+2021-12-28 00:44:26.017 [main] ERROR com.ccg.slf4j.Slf4jJdk - Error Level
+2021-12-28 00:44:41.306 [main] INFO  com.ccg.slf4j.Slf4jJdk - Info Level
+2021-12-28 00:44:41.306 [main] WARN  com.ccg.slf4j.Slf4jJdk - Warn Level
+2021-12-28 00:44:41.306 [main] ERROR com.ccg.slf4j.Slf4jJdk - Error Level
+2021-12-28 00:44:47.817 [main] INFO  com.ccg.slf4j.Slf4jJdk - Info Level
+2021-12-28 00:44:47.818 [main] WARN  com.ccg.slf4j.Slf4jJdk - Warn Level
+2021-12-28 00:44:47.818 [main] ERROR com.ccg.slf4j.Slf4jJdk - Error Level
+2021-12-28 00:47:52.209 [main] INFO  com.ccg.slf4j.Slf4jJdk - Info Level
+2021-12-28 00:47:52.211 [main] WARN  com.ccg.slf4j.Slf4jJdk - Warn Level
+2021-12-28 00:47:52.212 [main] ERROR com.ccg.slf4j.Slf4jJdk - Error Level
+2021-12-28 01:10:32.360 [main] INFO  com.ccg.slf4j.Slf4jJdk - Info Level
+2021-12-28 01:10:32.362 [main] WARN  com.ccg.slf4j.Slf4jJdk - Warn Level
+2021-12-28 01:10:32.362 [main] ERROR com.ccg.slf4j.Slf4jJdk - Error Level
+2021-12-28 11:23:20.850 [main] INFO  com.ccg.slf4j.Slf4jJdk - Info Level
+2021-12-28 11:23:20.852 [main] WARN  com.ccg.slf4j.Slf4jJdk - Warn Level
+2021-12-28 11:23:20.852 [main] ERROR com.ccg.slf4j.Slf4jJdk - Error Level
+2021-12-28 11:30:21.267 [main] INFO  com.ccg.slf4j.Slf4jJdk - Info Level
+2021-12-28 11:30:21.270 [main] WARN  com.ccg.slf4j.Slf4jJdk - Warn Level
+2021-12-28 11:30:21.270 [main] ERROR com.ccg.slf4j.Slf4jJdk - Error Level
+2021-12-28 11:31:42.592 [main] INFO  com.ccg.slf4j.Slf4jJdk - Info Level
+2021-12-28 11:31:42.593 [main] WARN  com.ccg.slf4j.Slf4jJdk - Warn Level
+2021-12-28 11:31:42.594 [main] ERROR com.ccg.slf4j.Slf4jJdk - Error Level
+2021-12-28 11:32:06.914 [main] INFO  com.ccg.slf4j.Slf4jJdk - Info Level
+2021-12-28 11:32:06.915 [main] WARN  com.ccg.slf4j.Slf4jJdk - Warn Level
+2021-12-28 11:32:06.915 [main] ERROR com.ccg.slf4j.Slf4jJdk - Error Level
+2021-12-28 12:27:31.673 [main] INFO  com.ccg.logback.LogbackDemo - ======info
+2021-12-28 12:27:31.675 [main] WARN  com.ccg.logback.LogbackDemo - ======warn
+2021-12-28 12:27:31.675 [main] ERROR com.ccg.logback.LogbackDemo - ======error
+2021-12-28 12:27:31.675 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!
+2021-12-28 12:27:31.679 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!   3Q!
+2021-12-28 12:27:31.679 [main] INFO  com.ccg.logback.LogbackDemo - Fruit:  apple,banana
+2021-12-28 12:28:10.610 [main] INFO  com.ccg.logback.LogbackDemo - ======info
+2021-12-28 12:28:10.612 [main] WARN  com.ccg.logback.LogbackDemo - ======warn
+2021-12-28 12:28:10.612 [main] ERROR com.ccg.logback.LogbackDemo - ======error
+2021-12-28 12:28:10.612 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!
+2021-12-28 12:28:10.614 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!   3Q!
+2021-12-28 12:28:10.614 [main] INFO  com.ccg.logback.LogbackDemo - Fruit:  apple,banana
+2021-12-28 12:28:35.628 [main] INFO  com.ccg.logback.LogbackDemo - ======info
+2021-12-28 12:28:35.629 [main] WARN  com.ccg.logback.LogbackDemo - ======warn
+2021-12-28 12:28:35.630 [main] ERROR com.ccg.logback.LogbackDemo - ======error
+2021-12-28 12:28:35.630 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!
+2021-12-28 12:28:35.632 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!   3Q!
+2021-12-28 12:28:35.632 [main] INFO  com.ccg.logback.LogbackDemo - Fruit:  apple,banana
+2021-12-28 13:01:57.143 [main] INFO  com.ccg.slf4j.Slf4j - Info Level
+2021-12-28 13:01:57.145 [main] WARN  com.ccg.slf4j.Slf4j - Warn Level
+2021-12-28 13:01:57.145 [main] ERROR com.ccg.slf4j.Slf4j - Error Level
+2021-12-28 16:28:23.994 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 16:28:23.996 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 16:28:23.996 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 16:28:39.090 [main] INFO  com.ccg.slf4j.Slf4j - Info Level
+2021-12-28 16:28:39.091 [main] WARN  com.ccg.slf4j.Slf4j - Warn Level
+2021-12-28 16:28:39.091 [main] ERROR com.ccg.slf4j.Slf4j - Error Level
+2021-12-28 16:28:57.742 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 16:28:57.743 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 16:28:57.743 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 16:29:17.998 [main] INFO  com.ccg.logback.LogbackDemo - ======info
+2021-12-28 16:29:18.000 [main] WARN  com.ccg.logback.LogbackDemo - ======warn
+2021-12-28 16:29:18.000 [main] ERROR com.ccg.logback.LogbackDemo - ======error
+2021-12-28 16:29:18.000 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!
+2021-12-28 16:29:18.003 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!   3Q!
+2021-12-28 16:29:18.003 [main] INFO  com.ccg.logback.LogbackDemo - Fruit:  apple,banana
+2021-12-28 16:31:33.169 [main] INFO  com.ccg.slf4j.Slf4j - Info Level
+2021-12-28 16:31:33.170 [main] WARN  com.ccg.slf4j.Slf4j - Warn Level
+2021-12-28 16:31:33.170 [main] ERROR com.ccg.slf4j.Slf4j - Error Level
+2021-12-28 16:31:46.917 [main] INFO  com.ccg.slf4j.Slf4j - Info Level
+2021-12-28 16:31:46.918 [main] WARN  com.ccg.slf4j.Slf4j - Warn Level
+2021-12-28 16:31:46.919 [main] ERROR com.ccg.slf4j.Slf4j - Error Level
+2021-12-28 16:32:24.460 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 16:32:24.461 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 16:32:24.461 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 16:32:36.421 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 16:32:36.422 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 16:32:36.422 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 16:58:16.518 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 16:58:16.519 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 16:58:16.519 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 17:07:48.581 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 17:07:48.582 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 17:07:48.582 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 17:15:41.157 [main] INFO  com.ccg.slf4j.Slf4j - Info Level
+2021-12-28 17:15:41.158 [main] WARN  com.ccg.slf4j.Slf4j - Warn Level
+2021-12-28 17:15:41.158 [main] ERROR com.ccg.slf4j.Slf4j - Error Level
+2021-12-28 17:18:10.839 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 17:18:10.841 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 17:18:10.842 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 17:19:36.438 [main] INFO  com.ccg.slf4j.Slf4j - Info Level
+2021-12-28 17:19:36.440 [main] WARN  com.ccg.slf4j.Slf4j - Warn Level
+2021-12-28 17:19:36.440 [main] ERROR com.ccg.slf4j.Slf4j - Error Level
+2021-12-28 18:48:37.021 [main] INFO  com.ccg.logback.LogbackDemo - ======info
+2021-12-28 18:48:37.022 [main] WARN  com.ccg.logback.LogbackDemo - ======warn
+2021-12-28 18:48:37.022 [main] ERROR com.ccg.logback.LogbackDemo - ======error
+2021-12-28 18:48:37.022 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!
+2021-12-28 18:48:37.025 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!   3Q!
+2021-12-28 18:48:37.025 [main] INFO  com.ccg.logback.LogbackDemo - Fruit:  apple,banana
+2021-12-28 21:19:15.879 [main] INFO  com.ccg.slf4j.Slf4j - Info Level
+2021-12-28 21:19:15.881 [main] WARN  com.ccg.slf4j.Slf4j - Warn Level
+2021-12-28 21:19:15.881 [main] ERROR com.ccg.slf4j.Slf4j - Error Level
+2021-12-28 21:19:32.670 [main] INFO  com.ccg.logback.LogbackDemo - ======info
+2021-12-28 21:19:32.672 [main] WARN  com.ccg.logback.LogbackDemo - ======warn
+2021-12-28 21:19:32.672 [main] ERROR com.ccg.logback.LogbackDemo - ======error
+2021-12-28 21:19:32.672 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!
+2021-12-28 21:19:32.673 [main] INFO  com.ccg.logback.LogbackDemo - Hello,Aub!   3Q!
+2021-12-28 21:19:32.674 [main] INFO  com.ccg.logback.LogbackDemo - Fruit:  apple,banana
+2021-12-28 21:23:23.122 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 21:23:23.123 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 21:23:23.123 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 21:24:57.865 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 21:24:57.867 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 21:24:57.868 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 21:30:14.494 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 21:30:14.495 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 21:30:14.495 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 21:37:14.415 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 21:37:14.416 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 21:37:14.416 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 21:37:37.497 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 21:37:37.498 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 21:37:37.498 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 21:39:13.374 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 21:39:13.377 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 21:39:13.377 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 21:39:30.995 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 21:39:30.997 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 21:39:30.997 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
+2021-12-28 21:43:55.646 [main] INFO  com.ccg.commonslogging.CommonsLogging - Info Level
+2021-12-28 21:43:55.647 [main] WARN  com.ccg.commonslogging.CommonsLogging - Warn Level
+2021-12-28 21:43:55.647 [main] ERROR com.ccg.commonslogging.CommonsLogging - Error Level
