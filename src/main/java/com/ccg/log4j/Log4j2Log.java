@@ -5,9 +5,9 @@ import org.apache.logging.log4j.Logger;
 
 /**
  * Log4J2 Demo
- *
+ * <p>
  * Ref:
- * [三种日志记录方式 JDKLog、Log4J、LogBack、_weixin_34033624的博客-CSDN博客](https://blog.csdn.net/weixin_34033624/article/details/91830920)
+ * <a href="https://blog.csdn.net/weixin_34033624/article/details/91830920">三种日志记录方式 JDKLog、Log4J、LogBack、_weixin_34033624的博客-CSDN博客</a>
  */
 public class Log4j2Log {
 	public static void main(String args[]) {

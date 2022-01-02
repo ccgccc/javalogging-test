@@ -5,10 +5,10 @@ import org.apache.log4j.Logger;
 
 /**
  * 这是Log4j 1版本，最后更新于2012年5月
- *
+ * <p>
  * Ref:
- * [日志框架3：log4j_Cape_sir-CSDN博客](https://blog.csdn.net/weixin_42652596/article/details/117079405)
- * [日志框架4：log4j配置_Cape_sir-CSDN博客](https://blog.csdn.net/weixin_42652596/article/details/117216317)
+ * <p> <a href="https://blog.csdn.net/weixin_42652596/article/details/117079405">日志框架3：log4j_Cape_sir-CSDN博客</a>
+ * <p> <a href="https://blog.csdn.net/weixin_42652596/article/details/117216317">日志框架4：log4j配置_Cape_sir-CSDN博客</a>
  */
 public class Log4jLegacy {
 	private static Logger logger = Logger.getLogger(Log4jLegacy.class);

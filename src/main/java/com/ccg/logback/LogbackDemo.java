@@ -5,10 +5,10 @@ import org.slf4j.LoggerFactory;
 
 /**
  * logback + slf4j(dependency)
- *
+ * <p>
  * Ref:
- * [日志框架5：logback_Cape_sir-CSDN博客](https://blog.csdn.net/weixin_42652596/article/details/117218918)
- * [日志框架6：logback相较于log4j的优势_Cape_sir-CSDN博客_logback和log4j哪个好](https://blog.csdn.net/weixin_42652596/article/details/117222027)
+ * <p> <a href="https://blog.csdn.net/weixin_42652596/article/details/117218918">日志框架5：logback_Cape_sir-CSDN博客</a>
+ * <p> <a href="https://blog.csdn.net/weixin_42652596/article/details/117222027">日志框架6：logback相较于log4j的优势_Cape_sir-CSDN博客_logback和log4j哪个好</a>
  */
 public class LogbackDemo {
 	private static Logger log = LoggerFactory.getLogger(LogbackDemo.class);

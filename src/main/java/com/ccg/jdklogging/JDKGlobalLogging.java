@@ -4,18 +4,20 @@ import java.util.logging.Logger;
 
 /**
  * 需要添加 VM 参数: -Djava.util.logging.config.file=src/main/resources/jdk-logging.properties
- * 或者(在玩)先调用 System.setProperty("java.util.logging.config.file", "src/main/resources/jdk-logging.properties");
- *
+ * <p> 或者(在玩)先调用 System.setProperty("java.util.logging.config.file", "src/main/resources/jdk-logging.properties");
+ * <p>
  * The levels in descending order are:
- * SEVERE (highest value)
- * WARNING
- * INFO
- * CONFIG
- * FINE
- * FINER
- * FINEST (lowest value)
- *
- * Ref: [使用JDK Logging - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744/1264738568571776)
+ * <ul>
+ * <li> SEVERE (highest value)
+ * <li> WARNING
+ * <li> INFO
+ * <li> CONFIG
+ * <li> FINE
+ * <li> FINER
+ * <li> FINEST (lowest value)
+ * </ul>
+ * <p>
+ * Ref: <a href="https://www.liaoxuefeng.com/wiki/1252599548343744/1264738568571776">使用JDK Logging - 廖雪峰的官方网站</a>
  */
 public class JDKGlobalLogging {
 	public static void main(String[] args) {
