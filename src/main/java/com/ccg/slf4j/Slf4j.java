@@ -4,8 +4,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Slf4j StaticLoggerBinder加载顺序: 根据java执行命令中-classpath里jar包的顺序来加载，先加载放在前面的(通过java命令行执行调整顺序可验证)，
+ * Slf4j StaticLoggerBinder加载顺序: 根据java执行命令中-classpath里jar包的顺序来加载，先加载放在前面的(通过java命令行执行调整顺序可验证)；
  * <p> maven生成执行命令时，-classpath和定义在pom文件中的顺序有一定关系(如果slf4j的实现都放在slf4j-api之后，那么查找顺序就是pom文件中定义的顺序)。
+ * <p> StaticLoggerBinder加载见方法 {@link org.slf4j.LoggerFactory#bind()}
  * <p> Ref:
  * <p> <a href="https://blog.csdn.net/u012871914/article/details/84838969">java 日志总结： logging，log4j1、log4j2、logback，&& commons-logging、slf4j 的关系_冬的博客-CSDN博客</a>
  * <p> <a href="https://www.slf4j.org/codes.html#multiple_bindings">SLF4J Error Codes</a>
